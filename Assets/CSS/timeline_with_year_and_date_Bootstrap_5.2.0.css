@@ -1,3 +1,7 @@
+.tbp-wrapper * {
+  box-sizing: border-box;
+}
+
 body{
     margin-top:20px;
     background:#eee;
