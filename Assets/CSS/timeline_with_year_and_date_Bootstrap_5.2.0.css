@@ -92,6 +92,7 @@ body{
     position: relative;
     padding-inline:1.5rem;-webkit-padding-after: 1.5rem;
     padding-block-end:1.5rem;font-weight: 300
+    text-align: justify;
 }
 
 .timeline li .descr::before {
