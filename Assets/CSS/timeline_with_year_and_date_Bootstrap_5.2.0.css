@@ -3,6 +3,11 @@ body{
     background:#eee;
 }
 
+.timeline .card {
+    background: #1e1e2f;
+    color: #fff;
+}
+
 .timeline {
     display: grid;
     grid-template-columns: .25rem 1fr;
