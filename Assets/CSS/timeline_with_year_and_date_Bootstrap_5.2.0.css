@@ -5,6 +5,7 @@
 body{
     margin-top:20px;
     background:#eee;
+    text-align: justify;
 }
 
 .timeline {
@@ -91,7 +92,8 @@ body{
 .timeline li .descr {
     position: relative;
     padding-inline:1.5rem;-webkit-padding-after: 1.5rem;
-    padding-block-end:1.5rem;font-weight: 300
+    padding-block-end:1.5rem;font-weight: 300;
+    text-align: justify;
 }
 
 .timeline li .descr::before {
@@ -145,6 +147,10 @@ body{
     -webkit-clip-path: polygon(0 0,100% 0,100% 80%,50% 100%,0 80%);
     clip-path: polygon(0 0,100% 0,100% 80%,50% 100%,0 80%);
     z-index: 1
+}
+
+.timeline .timeline-text {
+text-align: justify;
 }
 
 h5, h6 {
