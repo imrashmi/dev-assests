@@ -149,6 +149,10 @@ body{
     z-index: 1
 }
 
+.timeline .timeline-text {
+text-align: justify;
+}
+
 h5, h6 {
     color:#201f26 !important;
 }
