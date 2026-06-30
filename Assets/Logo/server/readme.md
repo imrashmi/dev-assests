@@ -1,4 +1,4 @@
-# CDN Asset URLs
+# Server CDN Asset URLs
 
 Base URL:
 
